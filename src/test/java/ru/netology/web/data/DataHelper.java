@@ -1,4 +1,4 @@
-package ru.netology.data;
+package ru.netology.web.data;
 import lombok.Value;
 import ru.netology.web.page.CardChoosePage;
 import java.util.Random;
